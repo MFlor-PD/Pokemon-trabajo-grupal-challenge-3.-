@@ -1,5 +1,5 @@
 
-const btnGetPokemon = document.getElementById("get-pokemon"); //Boton
+const btnGetPokemon = document.getElementById("get-pokemon"); //Boton.
 const infoPokemonDIV = document.getElementById("info-pokemon"); //Contenedor
 let selectedPokemon;
 let pokemon_types;
